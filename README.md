@@ -28,3 +28,7 @@ is to test that. I had the opportunity to use python, but yeah, not a huge
 fan of python so I am trying to see if something else can be better. Like
 python, it is dynamic, and has a repl.  Unlike python it has a reasonable
 way to separate clauses, '\s' and '()', not '\s\s\s\s' or ':\n'.
+
+## How this works 
+
+This document is scraped using javascript and then the content is entered into a sql database for that I can use to generate CSVs or panda datatables  for me to try to compare trying to work with clojure versus python or javascript for data science.
